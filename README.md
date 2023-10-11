@@ -1,12 +1,10 @@
 ```python
 
 SpeakinTelnet = dict(
-    workplace='Pratt & Whitney Canada',
-    job='Aerospace Tool Designer',
-    code=['Python', 'Julia', 'Typescript', 'Solidity', 'G-codes'],
+    job='Mechanical Designer & Python Dev',
+    code=['Python', 'Julia', 'Rust', 'Solidity', 'G-codes'],
     language=['French', 'English'],
-    occupation=['Homelab', 'Blockchain', 'Retro Gaming', 'My dog'],
-    free_time=None,
+    occupation=['Homelab', 'Algorithm Trading', 'Tinkering', 'My dog']
     )
   
 ```
