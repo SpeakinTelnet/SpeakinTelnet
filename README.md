@@ -3,7 +3,7 @@
 SpeakinTelnet = dict(
     workplace='Pratt & Whitney Canada',
     job='Aerospace Tool Designer',
-    code=['Python', 'Julia', 'Typescript', 'Solidity', 'G-codes'],
+    code=['Python', 'Julia', 'Rust', 'Solidity', 'G-codes'],
     language=['French', 'English'],
     occupation=['Homelab', 'Blockchain', 'Retro Gaming', 'My dog'],
     free_time=None,
